@@ -24,7 +24,6 @@ class Product {
 }
 // Test the Product class
 $product = new Product(5, 'T-shirt', 18.99);
-
 $product->showDetails();
 
 
